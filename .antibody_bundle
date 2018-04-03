@@ -1,0 +1,8 @@
+mafredri/zsh-async
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+
+# These plugins must be last.
+sindresorhus/pure
+zdharma/fast-syntax-highlighting
+zdharma/history-search-multi-word
